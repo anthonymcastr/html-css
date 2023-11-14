@@ -1,0 +1,106 @@
+body {
+    background-color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0;
+      height: 100%;
+     }
+    
+     header {
+        background-color: white;
+        padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.626)
+     }
+    
+     main {
+        background-color: white;
+        padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.626);
+     }
+     
+     h1 {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-decoration: underline 1px;
+        background-color: rgba(93, 122, 122, 0.584);
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.626); 
+    }
+    
+     article {
+        background-color: darkgrey;
+        padding: 10px;
+ }
+    
+     article > aside {
+        background-color: rgb(42, 45, 45);
+     color: white;
+    }
+    
+    
+    nav {
+        background-color: rgb(112, 122, 122);
+    padding: 3px;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.785);
+    }
+    
+    nav > a {
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+        margin-right: 30px;
+    
+    }
+
+    nav > a:hover {
+        text-decoration: underline;
+    }
+    
+section > a {
+        text-decoration:underline;
+    color: black;
+        
+    }
+    
+ 
+    
+    aside > a {
+        text-decoration: none;
+        color: white
+    }
+    
+    aside >a:hover {
+        color: red;
+    }
+
+
+
+        footer {
+            background-color: black;
+            color: white;
+        text-align: center;
+        padding: 4px;
+        margin: 0px;
+        }
+        
+        footer > p > a {
+            text-decoration: none;
+            color:aqua;
+            
+        }
+        footer > p {
+           margin: 0px;
+            
+        }
+
+        div#bola {
+            height: 100px;
+            width: 100px;
+            background-color: white ;
+            margin: 4px;
+            border-radius: 50px;
+        }
+    
+    
