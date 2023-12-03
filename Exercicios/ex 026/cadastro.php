@@ -1,2 +1,3 @@
-os dados foram enviados!
-aprenda PHP pra saber o que fazer com eles.
+Obrigado por realizar o teste!
+
+Seus dados foram enviados, Anthony está aprendendo e futuramente terá uma finalidade (assim espero).
