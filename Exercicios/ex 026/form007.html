@@ -8,7 +8,7 @@
 <body>
     <h1>Demonstração de elementos sem utilizar INPUT</h1>
     
-    <form action="cadastro.php" method="get">
+    <form action="cadastro.php" method="post">
 <fieldset>
     <legend>Localização</legend>
     <p>
@@ -37,10 +37,15 @@
                 <option value="DEV">Desenvolvedor</option>
             </datalist>
             </p>
+
+            <p>
+                <label for="imsg">Mensagem:</label><br>
+                <textarea name="msg" id="imsg" cols="30" rows="10">Escreva um texto</textarea>
+            </p>
             
     
         
-    </p>
+    
 </fieldset>
 
 <p>
